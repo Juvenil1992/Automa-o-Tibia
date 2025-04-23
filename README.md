@@ -1,16 +1,16 @@
 📂 Estrutura do Projeto
 Automação Tibia/
 
-├── Cavebot.py ──│           ├── # Arquivo principal ──│
-├── Pick_loot.py ──│          ├── # Função auxiliar para pegar loot e Cura ──│
+├── Cavebot.py   # Arquivo principal ──│
+├── Pick_loot.py    # Função auxiliar para pegar loot e Cura ──│
 ├── Healer.py ──│
 ├── Mana_Potion.py ──│
 ├── Main.py ──│
-├── imgs/ # Imagens usadas para reconhecimento──│
-│   ├── meio_cave.png──│
-│   ├── sul_cave.png──│
-│   ├── norte_cave.png──│
-│   ├── Mark_Red_Battle2.png──│
+├── imgs/ # Imagens usadas para reconhecimento ──│
+│   ├── meio_cave.png ──│
+│   ├── sul_cave.png ──│
+│   ├── norte_cave.png ──│
+│   ├── Mark_Red_Battle2.png ──│
 │   └── ...
 
 ⚠️ Aviso
